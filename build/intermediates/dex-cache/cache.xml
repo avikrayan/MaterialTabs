@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/avik/.android/build-cache/49ea0a5ec07891c59e38e41b62d667ccd2337d02/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_975bfea125b09a311b76a5bd9faef25416e52378/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ca9c16b1206a58415d7314c8c36dd61ca2e1650d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/avik/.android/build-cache/a0c7296cb8fcd7625ba73b48e0210e99259011f6/output/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_9264481300c17c1897fc3c4a9636713f73d4cfab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/avik/.android/build-cache/a0c7296cb8fcd7625ba73b48e0210e99259011f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73d0fb87d99d79d109b698e5cf644aef384aa2f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/avik/Android/Android_SDK/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_c9d6e69a815853fb37bf3f73cd659e2c099756ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e76b453872dff0cf613d5acb69349b648ebabdfe">
+        <dex dex="/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_64fb950863f5280201a10c922512b0538f8abbf6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/avik/.android/build-cache/fe3b062114eb587a2c5c8422f837b42b5a83d7e3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1157d947ba7de92ca21e85d4784bced078bdd8fe/classes.dex" />
+    </item>
+
+</items>

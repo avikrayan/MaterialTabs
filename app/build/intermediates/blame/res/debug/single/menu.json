@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/res/merged/debug/menu/menu_icon_text_tabs.xml",
+        "source": "/home/avik/Downloads/MaterialTabs/MaterialTabs/app/src/main/res/menu/menu_icon_text_tabs.xml"
+    },
+    {
+        "merged": "/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/res/merged/debug/menu/menu_pinned_top_tabs.xml",
+        "source": "/home/avik/Downloads/MaterialTabs/MaterialTabs/app/src/main/res/menu/menu_pinned_top_tabs.xml"
+    },
+    {
+        "merged": "/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/avik/Downloads/MaterialTabs/MaterialTabs/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/res/merged/debug/menu/menu_simple_tabs.xml",
+        "source": "/home/avik/Downloads/MaterialTabs/MaterialTabs/app/src/main/res/menu/menu_simple_tabs.xml"
+    },
+    {
+        "merged": "/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/res/merged/debug/menu/menu_main2.xml",
+        "source": "/home/avik/Downloads/MaterialTabs/MaterialTabs/app/src/main/res/menu/menu_main2.xml"
+    },
+    {
+        "merged": "/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/res/merged/debug/menu/menu_icon_tabs.xml",
+        "source": "/home/avik/Downloads/MaterialTabs/MaterialTabs/app/src/main/res/menu/menu_icon_tabs.xml"
+    },
+    {
+        "merged": "/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/res/merged/debug/menu/menu_custom_view_icon_text_tabs.xml",
+        "source": "/home/avik/Downloads/MaterialTabs/MaterialTabs/app/src/main/res/menu/menu_custom_view_icon_text_tabs.xml"
+    },
+    {
+        "merged": "/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/res/merged/debug/menu/menu_scrollable_tabs.xml",
+        "source": "/home/avik/Downloads/MaterialTabs/MaterialTabs/app/src/main/res/menu/menu_scrollable_tabs.xml"
+    }
+]

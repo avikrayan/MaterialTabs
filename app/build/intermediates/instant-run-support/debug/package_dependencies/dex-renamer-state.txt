@@ -1,0 +1,16 @@
+#Tue Jul 18 12:43:47 IST 2017
+renamed.4=classes2.dex
+renamed.3=classes.dex
+renamed.2=classes4.dex
+renamed.1=classes3.dex
+base.4=/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_9264481300c17c1897fc3c4a9636713f73d4cfab
+renamed.0=classes5.dex
+base.3=/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73d0fb87d99d79d109b698e5cf644aef384aa2f3
+base.2=/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_c9d6e69a815853fb37bf3f73cd659e2c099756ea
+base.1=/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1157d947ba7de92ca21e85d4784bced078bdd8fe
+base.0=/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_975bfea125b09a311b76a5bd9faef25416e52378
+file.4=/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_9264481300c17c1897fc3c4a9636713f73d4cfab/classes.dex
+file.3=/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73d0fb87d99d79d109b698e5cf644aef384aa2f3/classes.dex
+file.2=/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_c9d6e69a815853fb37bf3f73cd659e2c099756ea/classes.dex
+file.1=/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1157d947ba7de92ca21e85d4784bced078bdd8fe/classes.dex
+file.0=/home/avik/Downloads/MaterialTabs/MaterialTabs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_975bfea125b09a311b76a5bd9faef25416e52378/classes.dex
